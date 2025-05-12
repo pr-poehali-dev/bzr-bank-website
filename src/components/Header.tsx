@@ -113,6 +113,12 @@ const Header = () => {
               >
                 Контакты
               </Link>
+              <Button
+                variant="outline"
+                className="border-bzr-blue text-bzr-blue hover:bg-bzr-blue hover:text-white w-full"
+              >
+                <Icon name="Phone" className="mr-2 h-4 w-4" />8 800 555-35-35
+              </Button>
               <Button className="bg-bzr-blue text-white hover:bg-bzr-dark-blue w-full mt-4">
                 <Icon name="LogIn" className="mr-2 h-4 w-4" />
                 Интернет-банк

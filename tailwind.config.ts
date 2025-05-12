@@ -23,12 +23,10 @@ export default {
         roboto: ["Roboto", "sans-serif"],
       },
       colors: {
-        bzr: {
-          blue: "#0074D9",
-          "dark-blue": "#003366",
-          "light-blue": "#0099F7",
-          "bg-blue": "#E0F4FF",
-        },
+        "bzr-blue": "#0074D9",
+        "bzr-light-blue": "#0099F7",
+        "bzr-dark-blue": "#003366",
+        "bzr-bg-blue": "#E0F4FF",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
